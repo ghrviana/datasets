@@ -1,0 +1,996 @@
+Rank Quantidade;Rank Faturamento;Princípio Ativo;Empresas;Produtos;Apresentações cadastradas com comercialização;Subclasses Terapêuticas;Faturamento;Apresentações comercializadas
+3;4;dipirona;25;58;147;3;Acima de 1 bilhão;Entre 100 milhões e 250 milhões
+4;9;cloridrato de metformina;11;18;52;1;Acima de 1 bilhão;Entre 100 milhões e 250 milhões
+2;28;losartana potássica;17;22;44;1;Entre 500 milhões e 1 bilhão;Entre 250 milhões e 500 milhões
+6;18;ibuprofeno;27;56;131;4;Entre 500 milhões e 1 bilhão;Entre 100 milhões e 250 milhões
+8;17;levotiroxina sódica;4;6;68;1;Entre 500 milhões e 1 bilhão;Entre 50 milhões e 100 milhões
+28;21;rosuvastatina cálcica;26;37;145;1;Entre 500 milhões e 1 bilhão;Entre 25 milhões e 50 milhões
+21;43;amoxicilina;15;43;75;1;Entre 500 milhões e 1 bilhão;Entre 25 milhões e 50 milhões
+39;23;colecalciferol;28;46;251;1;Entre 500 milhões e 1 bilhão;Entre 25 milhões e 50 milhões
+46;31;oxalato de escitalopram;25;36;118;1;Entre 500 milhões e 1 bilhão;Entre 10 milhões e 25 milhões
+35;49;cetoprofeno;12;27;38;1;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+29;61;azitromicina;23;41;90;1;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+50;40;cloridrato de sertralina;19;25;56;1;Entre 500 milhões e 1 bilhão;Entre 10 milhões e 25 milhões
+38;54;levonorgestrel;9;13;13;2;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+17;88;paracetamol;33;58;114;5;Entre 250 milhões e 500 milhões;Entre 50 milhões e 100 milhões
+26;87;pantoprazol sódico;18;26;71;1;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+10;106;sinvastatina;16;22;65;1;Entre 250 milhões e 500 milhões;Entre 50 milhões e 100 milhões
+43;72;gliclazida;8;11;36;1;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+36;82;sulfato de salbutamol;9;11;18;3;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+53;66;succinato de metoprolol;7;10;34;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+14;121;besilato de anlodipino;17;25;68;1;Entre 250 milhões e 500 milhões;Entre 50 milhões e 100 milhões
+20;112;tadalafila;15;19;58;1;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+61;63;pregabalina;23;34;88;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+64;60;hemifumarato de quetiapina;21;32;100;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+59;68;cloridrato de ondansetrona di-hidratado;18;27;81;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+30;104;cefalexina;13;22;39;1;Entre 250 milhões e 500 milhões;Entre 25 milhões e 50 milhões
+5;141;nimesulida;21;39;52;3;Entre 100 milhões e 250 milhões;Entre 100 milhões e 250 milhões
+7;163;cloridrato de nafazolina;9;10;10;1;Entre 100 milhões e 250 milhões;Entre 50 milhões e 100 milhões
+70;83;hemitartarato de zolpidem;23;35;57;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+105;46;cloridrato de venlafaxina;16;19;54;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+24;155;clonazepam;16;24;51;2;Entre 100 milhões e 250 milhões;Entre 25 milhões e 50 milhões
+119;45;succinato de desvenlafaxina monoidratado;15;22;61;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+76;90;cloridrato de fexofenadina;12;19;50;2;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+54;133;acetilcisteína;10;20;57;2;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+13;184;maleato de enalapril;17;24;68;1;Entre 100 milhões e 250 milhões;Entre 50 milhões e 100 milhões
+23;175;maleato de dexclorfeniramina;15;29;42;3;Entre 100 milhões e 250 milhões;Entre 25 milhões e 50 milhões
+84;94;budesonida;9;10;30;3;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+155;22;dapagliflozina;1;3;6;1;Entre 500 milhões e 1 bilhão;Entre 1 milhão e 10 milhões
+147;36;cloridrato de duloxetina;12;13;36;1;Entre 500 milhões e 1 bilhão;Entre 1 milhão e 10 milhões
+74;125;atorvastatina cálcica;15;18;61;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+51;169;cloridrato de fluoxetina;21;25;34;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+16;206;loratadina;14;24;32;1;Entre 100 milhões e 250 milhões;Entre 50 milhões e 100 milhões
+69;147;fosfato sódico de prednisolona;10;16;41;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+178;15;dolutegravir sódico;2;2;2;2;Entre 500 milhões e 1 bilhão;Entre 1 milhão e 10 milhões
+100;111;furoato de mometasona;9;19;29;4;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+12;228;citrato de sildenafila;15;22;65;2;Entre 100 milhões e 250 milhões;Entre 50 milhões e 100 milhões
+118;102;hemifumarato de bisoprolol;6;9;38;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+87;136;cloridrato de tramadol;16;27;47;2;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+88;134;nitazoxanida;8;13;27;1;Entre 250 milhões e 500 milhões;Entre 10 milhões e 25 milhões
+31;216;omeprazol;17;24;57;1;Entre 100 milhões e 250 milhões;Entre 25 milhões e 50 milhões
+131;105;valsartana;10;13;41;2;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+78;172;risperidona;21;29;103;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+138;108;dipropionato de beclometasona;3;8;14;2;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+77;185;ácido acetilsalicílico;10;12;27;2;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+170;77;cloridrato de bupropiona;13;20;46;2;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+181;70;esomeprazol magnésico;11;14;46;2;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+130;137;cloridrato de paroxetina;20;31;43;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+125;145;olmesartana medoxomila;9;13;30;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+52;236;espironolactona;5;6;15;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+173;91;cloridrato de trazodona;9;14;27;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+45;259;furosemida;10;14;21;1;Entre 100 milhões e 250 milhões;Entre 25 milhões e 50 milhões
+141;142;trometamol cetorolaco;9;13;26;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+114;179;desogestrel;14;20;37;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+120;181;carbamazepina;8;11;25;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+66;248;diclofenaco dietilamônio;14;22;35;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+15;315;atenolol;13;17;47;1;Entre 100 milhões e 250 milhões;Entre 50 milhões e 100 milhões
+161;143;rivaroxabana;19;27;133;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+56;272;dexametasona;10;16;25;5;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+68;252;cloridrato de benzidamina;4;5;28;3;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+191;114;propofol;8;9;26;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+91;229;flurbiprofeno;2;2;6;2;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+9;332;hidroclorotiazida;11;14;21;1;Entre 100 milhões e 250 milhões;Entre 50 milhões e 100 milhões
+57;280;alprazolam;11;13;43;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+112;218;desloratadina;10;23;49;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+44;299;prednisona;13;18;38;1;Entre 100 milhões e 250 milhões;Entre 25 milhões e 50 milhões
+97;243;naproxeno sódico;4;6;13;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+199;130;cloridrato de metilfenidato;8;11;29;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+82;262;prednisolona;9;16;37;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+85;264;aciclovir;21;31;64;3;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+65;303;cloridrato de ambroxol;20;27;54;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+292;58;empagliflozina;1;1;4;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+136;230;bissulfato de clopidogrel;17;22;28;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+204;165;furoato de fluticasona;1;1;1;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+63;316;cloridrato de ciclobenzaprina;15;20;71;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+193;171;mirtazapina;14;20;43;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+123;251;cloridrato de betaistina;10;13;27;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+27;360;albendazol;11;20;37;1;Entre 50 milhões e 100 milhões;Entre 25 milhões e 50 milhões
+163;213;valproato de sódio;6;9;15;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+33;358;fluconazol;19;24;47;1;Entre 50 milhões e 100 milhões;Entre 25 milhões e 50 milhões
+150;233;levofloxacino;21;31;71;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+230;153;levetiracetam;9;17;47;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+96;297;cloridrato de ciprofloxacino;22;31;48;3;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+158;239;lamotrigina;12;16;52;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+276;129;dexlansoprazol;1;1;4;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+142;266;butilbrometo de escopolamina;7;9;12;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+103;311;bromoprida;18;28;37;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+113;300;metronidazol;16;23;38;4;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+213;207;bilastina;5;8;16;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+151;269;clotrimazol;13;20;33;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+55;386;carvedilol;15;21;99;1;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+98;337;mesilato de doxazosina;20;25;40;1;Entre 100 milhões e 250 milhões;Entre 10 milhões e 25 milhões
+249;188;ceftriaxona dissódica hemieptaidratada;7;10;18;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+405;39;dimesilato de lisdexanfetamina;1;2;6;1;Entre 500 milhões e 1 bilhão;Entre 1 milhão e 10 milhões
+60;394;cloridrato de amitriptilina;7;8;20;1;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+194;246;etodolaco;4;4;11;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+72;383;ivermectina;6;7;14;2;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+89;367;domperidona;12;16;37;1;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+154;312;ciprofibrato;9;15;24;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+269;193;divalproato de sódio;5;7;23;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+259;212;minoxidil;9;12;33;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+128;353;indapamida;11;12;20;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+124;361;bisacodil;6;6;10;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+73;418;diclofenaco sódico;21;28;38;3;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+101;387;cetoconazol;18;36;53;4;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+227;261;montelucaste de sódio;10;18;62;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+436;69;meropeném tri-hidratado;7;8;20;1;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+108;396;fenobarbital;5;6;13;1;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+132;370;cloridrato de hidralazina;2;2;5;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+300;214;cloridrato de lidocaína;7;12;23;3;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+221;292;cetorolaco trometamina;12;14;24;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+293;223;pantoprazol magnésico;4;5;11;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+232;285;ácido tranexâmico;6;7;9;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+144;376;acebrofilina;15;20;43;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+187;339;metildopa;5;5;9;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+306;227;besilato de levanlodipino;4;6;23;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+273;258;claritromicina;9;12;23;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+502;47;liraglutida;1;2;2;2;Entre 250 milhões e 500 milhões;Entre 1 milhão e 10 milhões
+303;240;fosfato dissódico de dexametasona;7;7;14;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+225;324;permetrina;8;9;18;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+143;402;dropropizina;7;8;14;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+396;174;axetilcefuroxima;5;6;22;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+129;428;alopurinol;5;5;14;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+366;199;aripiprazol;14;20;51;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+248;314;olanzapina;15;22;71;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+416;166;apixabana;9;10;37;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+291;279;fosfomicina trometamol;3;4;7;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+80;490;cloridrato de loperamida;7;10;14;1;Entre 50 milhões e 100 milhões;Entre 10 milhões e 25 milhões
+359;226;dicloridrato de trimetazidina;5;8;15;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+286;291;etoricoxibe;7;8;34;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+189;380;cloridrato de naratriptana;4;6;11;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+316;283;oxcarbazepina;5;8;30;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+233;371;gabapentina;12;17;28;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+247;364;topiramato;13;15;42;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+148;466;nistatina;12;18;27;3;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+274;347;cloridrato de nebivolol;11;15;28;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+186;431;propionato de clobetasol;11;17;25;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+348;290;mesalazina;7;7;13;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+367;275;orlipastat;7;10;21;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+310;317;latanoprosta;5;6;6;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+337;302;estradiol;4;5;8;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+307;327;cloridrato de tansulosina;9;11;19;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+302;335;cloridrato de donepezila;18;21;48;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+220;421;celecoxibe;12;17;39;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+197;442;acetato de medroxiprogesterona;3;4;6;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+444;225;benzoato de alogliptina;2;2;3;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+229;422;dicloridrato de hidroxizina;9;13;14;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+256;392;ezetimiba;10;13;18;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+321;334;risedronato sódico;7;13;21;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+381;289;tenoxicam;10;14;17;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+166;480;cloridrato de prometazina;7;9;13;3;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+255;399;cloridrato de amiodarona;7;10;24;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+71;595;cloridrato de propranolol;12;13;19;1;Entre 25 milhões e 50 milhões;Entre 10 milhões e 25 milhões
+185;479;finasterida;12;18;21;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+210;456;cloridrato de fenazopiridina;2;2;4;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+652;65;etanercepte;5;6;9;1;Entre 250 milhões e 500 milhões;Entre 500 mil e 1 milhão
+223;443;fendizoato de cloperastina;2;3;4;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+217;460;cloridrato de clomipramina;5;5;13;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+371;329;eszopiclona;2;3;6;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+392;318;ramipril;2;2;8;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+238;457;dimenidrinato;2;2;4;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+631;122;acetato de leuprorrelina;3;3;8;1;Entre 250 milhões e 500 milhões;Entre 500 mil e 1 milhão
+503;231;fumarato de vonoprazana;1;1;4;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+134;580;triancinolona acetonida;10;14;14;3;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+468;263;tacrolimo;8;9;23;2;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+104;623;diclofenaco potássico;6;7;10;1;Entre 25 milhões e 50 milhões;Entre 10 milhões e 25 milhões
+246;477;cloridrato de clorpromazina;3;3;9;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+402;351;isotretinoína;7;8;12;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+169;557;brometo de ipratrópio;12;12;15;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+320;419;fosfato de codeína;2;2;9;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+175;555;ácido valpróico;2;3;4;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+350;400;ciprofloxacino;6;9;21;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+172;563;bromazepam;9;10;24;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+188;543;nitrofurantoína;2;3;6;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+313;430;dicloridrato de pramipexol;9;12;39;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+153;593;cloridrato de metoclopramida;10;11;16;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+94;663;leflunomida;3;3;3;1;Entre 25 milhões e 50 milhões;Entre 10 milhões e 25 milhões
+574;224;omeprazol sódico;5;6;6;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+465;308;bromidrato de galantamina;6;9;34;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+126;644;maleato ácido de timolol;9;12;14;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+441;336;cloridrato de pioglitazona;3;4;12;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+250;508;cilostazol;5;6;25;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+451;333;pitavastatina cálcica;5;7;15;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+427;356;candesartana cilexetila;4;4;11;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+156;613;nifedipino;3;3;6;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+354;426;dienogeste;9;13;17;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+467;323;drospirenona;2;3;4;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+343;436;maleato de levomepromazina;3;3;6;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+578;232;bromidrato de vortioxetina;2;3;13;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+206;565;nitrato de miconazol;11;22;30;3;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+410;382;sulfato de hidroxicloroquina;5;7;8;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+531;282;maleato de fluvoxamina;1;2;6;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+133;655;meloxicam;15;23;33;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+287;488;dicloridrato de levocetirizina;8;10;13;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+245;532;itraconazol;9;11;24;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+413;388;penicilina g benzatina;1;1;3;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+289;491;cloridrato de dorzolamida;5;6;6;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+75;735;captopril;15;20;38;1;Entre 25 milhões e 50 milhões;Entre 10 milhões e 25 milhões
+165;631;dexpantenol;10;10;10;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+252;534;picossulfato de sódio;5;7;7;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+267;524;succinato de sumatriptana;3;5;14;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+480;346;sulfato de morfina;3;4;15;1;Entre 100 milhões e 250 milhões;Entre 1 milhão e 10 milhões
+62;779;glibenclamida;9;13;16;1;Entre 25 milhões e 50 milhões;Entre 10 milhões e 25 milhões
+176;636;naproxeno;2;3;6;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+237;574;tobramicina;10;12;14;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+380;447;promestrieno;3;5;5;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+311;503;cloridrato de memantina;19;27;63;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+365;472;tibolona;8;11;16;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+264;564;bromidrato de citalopram;13;16;20;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+254;573;tartarato de brimonidina;8;9;14;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+445;403;cloridrato de propafenona;5;9;17;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+683;219;sevoflurano;4;5;9;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+619;276;succinato sódico de hidrocortisona;4;5;11;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+489;368;cloridrato de buspirona;1;1;6;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+159;691;diazepam;13;16;28;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+222;634;guaifenesina;8;10;16;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+324;522;mupirocina;6;6;6;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+219;648;manitol;9;9;11;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+857;98;acetato de gosserrelina;1;1;2;1;Entre 250 milhões e 500 milhões;Entre 100 mil e 500 mil
+525;378;telmisartana;3;3;9;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+139;755;acetato de dexametasona;14;16;18;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+550;359;cloridrato de dexmedetomidina;9;13;15;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+696;242;undecilato de testosterona;3;5;5;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+190;688;cloridrato de fenilefrina;4;4;6;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+330;546;metotrexato;4;4;11;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+184;708;piroxicam;6;8;15;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+192;700;rifamicina sv sódica;3;4;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+567;362;dutasterida;2;4;6;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+460;445;nicotina;2;3;7;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+296;599;clobazam;1;2;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+622;330;linagliptina;2;2;4;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+526;405;citrato de fentanila;7;7;20;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+386;527;sulfadiazina de prata;4;4;19;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+511;420;filgrastim;6;6;8;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+604;348;fosfato de sitagliptina monoidratado;1;2;5;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+140;799;secnidazol;11;17;32;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+308;601;cloridrato de clindamicina monoidratado;3;4;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+277;639;haloperidol;5;7;12;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+168;769;ácido fólico;14;15;20;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+400;547;levodropropizina;2;2;4;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+383;571;acetato de prednisolona;4;4;7;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+358;597;cloridrato de sibutramina;10;13;26;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+224;743;cloridrato de bromexina;7;10;21;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+661;350;cefazolina sódica;6;9;9;1;Entre 100 milhões e 250 milhões;Entre 500 mil e 1 milhão
+288;673;dicloridrato de betaistina;1;4;7;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+741;288;brometo de tiotrópio;1;1;1;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+458;504;cloridrato de olopatadina;2;2;4;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+420;545;nimesulida betaciclodextrina;1;1;2;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+447;521;cloridrato de oxibutinina;3;3;7;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+450;520;cloridrato de moxifloxacino;8;12;20;3;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+753;286;etanolato de darunavir;1;1;3;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+438;531;bimatoprosta;5;8;15;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+767;281;rivastigmina;2;2;6;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+384;594;lidocaína;8;8;11;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+530;467;fenofibrato;6;6;9;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+572;435;teicoplanina;6;6;10;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+378;616;propatilnitrato;2;2;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+940;168;cloridrato de escetamina;2;2;3;2;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+555;449;cefaclor;1;1;4;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+429;560;anastrozol;7;7;8;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+476;517;messalazina;5;7;7;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+234;778;cinarizina;3;3;7;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+643;412;paclitaxel;8;8;20;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+474;533;ibandronato de sódio;12;16;22;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+697;365;cloridrato de doxorrubicina;5;6;9;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+360;669;dicloridrato de meclozina monoidratado;1;2;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+454;568;racecadotrila;2;2;4;1;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+443;585;nitrato de fenticonazol;4;5;8;2;Entre 50 milhões e 100 milhões;Entre 1 milhão e 10 milhões
+323;706;benzoato de rizatriptana;1;1;1;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1069;97;eltrombopague olamina;1;1;2;1;Entre 250 milhões e 500 milhões;Entre 100 mil e 500 mil
+266;793;ácido mefenâmico;6;7;8;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+377;681;cloridrato de tiamina;8;8;10;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+263;800;mononitrato de isossorbida;5;6;15;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+411;658;cloridrato de terbinafina;8;10;16;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+586;494;propionato de fluticasona;4;6;9;3;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+815;326;folinato de cálcio;3;4;6;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+258;820;cloridrato de nortriptilina;3;3;10;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+984;211;mesilato de imatinibe;6;7;14;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+1056;139;acetato de octreotida;2;2;7;1;Entre 250 milhões e 500 milhões;Entre 100 mil e 500 mil
+610;493;succinato de solifenacina;6;7;15;3;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+591;509;fluoruracila;4;5;8;2;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+342;754;salicilato de metila;3;3;8;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+349;750;clortalidona;3;4;6;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+700;432;buprenorfina;2;2;8;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+1037;173;sugamadex sódico;11;13;13;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+281;824;fenitoína;7;7;8;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+660;473;hemitartarato de norepinefrina;4;6;6;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+647;486;timomodulina;1;1;3;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+659;475;trifenatato de vilanterol;1;1;1;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+352;766;pantoprazol;3;3;8;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1032;196;aflibercepte;2;2;3;2;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+735;433;cloridrato de valaciclovir;4;4;8;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+1016;220;citrato de tofacitinibe;1;1;2;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+684;469;lacosamida;4;6;33;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+553;584;ácido azelaico;1;1;2;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+1251;35;abemaciclibe;1;1;6;1;Entre 500 milhões e 1 bilhão;Abaixo de 100 mil
+455;670;citrato de tamoxifeno;4;5;8;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+486;647;cloridrato de biperideno;2;2;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+414;716;bromidrato de fenoterol;1;1;1;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+556;589;ácido ursodesoxicólico;4;4;9;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+738;446;cipionato de testosterona;1;1;1;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+212;937;cloridrato de ziprasidona monoidratado;2;2;6;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+644;525;vildagliptina;4;4;7;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+672;496;clozapina;3;4;10;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+669;502;cloridrato de naltrexona;2;2;2;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+278;873;cloridrato de oximetazolina;3;3;4;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+272;888;ciclopirox olamina;6;7;7;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+426;745;acetato de racealfatocoferol;6;6;7;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1299;38;lenalidomida;2;2;15;1;Entre 500 milhões e 1 bilhão;Abaixo de 100 mil
+351;836;citalopram;6;7;9;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+318;863;cefadroxila;5;6;7;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+529;660;loxoprofeno sódico;2;3;7;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1138;182;acetato de abiraterona;8;10;10;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+894;366;ertapeném sódico;4;4;4;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+951;345;etonogestrel;1;1;1;1;Entre 100 milhões e 250 milhões;Entre 100 mil e 500 mil
+769;465;mesilato de etexilato de dabigatrana;1;1;7;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+667;552;oxaliplatina;9;10;21;1;Entre 50 milhões e 100 milhões;Entre 500 mil e 1 milhão
+561;651;ebastina;1;1;3;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+1157;187;alteplase;1;1;3;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+816;440;ácido zoledrônico;8;12;12;2;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+777;474;edoxabana;1;1;3;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+617;620;perindopril;1;2;8;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+1253;123;carfilzomibe;1;1;1;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+279;940;dicloridrato de flunarizina;3;5;5;2;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1343;53;enzalutamida;1;1;1;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+542;687;calcitriol;4;4;5;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+783;484;cloridrato de lurasidona;1;2;6;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+824;453;cloridrato de sevelâmer;3;3;3;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+650;610;azatioprina;4;4;5;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+744;529;cloridrato de vancomicina;5;6;9;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+546;699;dipropionato de betametasona;3;3;7;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+389;872;aceclofenaco;9;12;16;2;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1359;62;succinato de ribociclibe;1;1;3;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+579;683;tretinoína;3;3;7;2;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+668;602;lamivudina;3;3;3;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+475;788;diclofenaco;4;4;6;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+880;444;micafungina sódica;1;1;2;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+251;1036;glimepirida;11;13;32;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+831;482;micofenolato de sódio;4;4;9;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+406;877;prometazina;3;4;4;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1433;32;mesilato de osimertinibe;1;1;2;1;Entre 500 milhões e 1 bilhão;Abaixo de 100 mil
+673;619;sulfato de polimixina b;7;7;9;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+571;714;maleato de trimebutina;6;8;16;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+449;840;cloreto de potássio;7;7;14;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+892;458;dulaglutida;1;1;2;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+707;608;benzilpenicilina benzatina;2;2;4;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+1023;363;temozolomida;4;4;19;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+658;661;orlistate;2;2;4;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+843;506;sulfato de atazanavir;1;1;1;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+347;972;colchicina;3;6;9;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+478;827;estriol;3;4;5;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+461;847;fumarato de cetotifeno;5;5;6;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+379;932;dicloridrato de buclizina;2;2;2;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+627;694;brinzolamida;1;1;1;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+433;884;periciazina;1;1;3;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+616;707;gadodiamida;1;1;3;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+1388;99;anfotericina b;2;2;2;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+472;848;acido acetilsalicilico;2;2;5;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1323;167;nilotinibe;1;1;2;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+860;512;brexpiprazol;1;1;4;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+401;927;carbocisteína;7;7;17;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+868;514;mirabegrona;2;2;4;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+214;1148;alendronato de sódio;15;19;22;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+889;498;menotropina;2;2;5;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+784;576;gadobutrol;1;1;2;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+736;628;lisado bacteriano;3;3;10;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+508;834;tartarato de metoprolol;8;8;9;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+656;693;linezolida;9;9;11;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+1413;96;olaparibe;1;1;2;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+370;976;cloreto de benzalcônio;4;4;4;4;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+253;1110;baclofeno;3;5;7;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+575;773;cabergolina;9;9;17;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+585;759;citrato de clomifeno;2;2;2;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+794;582;ciclosporina;4;5;15;2;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+541;816;cloridrato de metadona;1;1;4;1;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1171;306;fulvestranto;9;10;11;2;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+492;865;cloridrato de diltiazem;4;5;11;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1340;178;dasatinibe;1;1;2;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+792;590;cloridrato de remifentanila;5;6;6;2;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+996;438;ácido gadotérico;2;2;7;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+790;596;letrozol;9;10;10;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+565;804;lisinato de cetoprofeno;1;1;5;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+415;966;valerato de betametasona;6;9;15;3;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+543;837;ibuprofeno arginina;1;1;6;2;Entre 25 milhões e 50 milhões;Entre 1 milhão e 10 milhões
+1402;140;esilato de nintedanibe;2;3;6;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+670;709;midazolam;6;6;14;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+733;674;dobesilato de cálcio;1;1;2;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+1507;55;ibrutinibe;1;2;5;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+522;869;cloridrato de imipramina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+722;685;cloridrato de gencitabina;10;12;21;2;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+493;898;decanoato de nandrolona;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1051;424;azacitidina;3;4;4;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+706;702;cloridrato de ropivacaína;5;6;12;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+419;988;desonida;7;11;13;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+333;1100;noretisterona;1;2;2;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+533;880;decanoato de haloperidol;3;3;3;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1185;352;everolimo;2;4;10;2;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+969;519;cloridrato de cefepima;5;6;12;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+536;883;acetato de fluormetolona;2;2;2;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+671;757;benfotiamina;1;1;1;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+943;535;fosfato de oseltamivir;4;5;15;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+758;684;carboplatina;4;4;10;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1430;176;palbociclibe;1;1;3;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1472;132;fosfato de ruxolitinibe;1;1;4;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+911;572;brometo de rocurônio;6;6;7;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+399;1065;norfloxacino;8;11;13;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1038;471;carboximaltose ferrica;2;2;2;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+1098;437;iobitridol;1;1;6;1;Entre 50 milhões e 100 milhões;Entre 100 mil e 500 mil
+355;1117;deltametrina;5;5;8;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+424;1044;ceftriaxona;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1545;93;venetoclax;1;1;4;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+664;811;fumarato de formoterol;2;2;5;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+430;1043;cimetidina;3;4;6;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+408;1078;citrato de orfenadrina;2;2;4;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1164;404;embonato de triptorrelina;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+629;854;nitrato de isoconazol;2;2;4;2;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+521;941;cloridrato de amantadina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+740;752;gadoteridol;1;1;3;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+916;618;testosterona;1;1;2;2;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+554;936;metimazol;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+933;622;oxacilina sódica;2;3;3;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+801;726;tartarato de evogliptina;1;1;1;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+690;832;valerato de estradiol;1;2;4;2;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+703;821;aceponato de metilprednisolona;2;2;4;1;Entre 25 milhões e 50 milhões;Entre 500 mil e 1 milhão
+425;1103;benzoato de benzila;3;3;6;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+592;916;ceftriaxona sódica;4;6;8;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+934;643;fosfato de clindamicina;3;3;3;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+601;922;nitrendipino;3;3;6;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+509;1017;cloridrato de tetraciclina;3;4;8;2;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+620;911;cloridrato de bamifilina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+1583;126;atalureno;1;1;3;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+532;1002;lansoprazol;8;9;14;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+621;915;vimpocetina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+791;774;dicloridrato de manidipino;2;2;6;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+776;795;cloridrato de irinotecano;8;9;15;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+538;1016;doxiciclina monoidratada;2;2;3;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+746;825;sulfassalazina;2;2;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+599;953;bezafibrato;5;6;6;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+685;878;deflazacorte;4;4;9;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+802;785;hexacetonido de triancinolona;1;1;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+559;1001;metotrexato de sódio;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+428;1149;cloridrato de doxiciclina;1;2;4;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+771;819;entacapona;2;2;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+515;1067;propilparabeno;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1436;295;cloridrato de pazopanibe;1;1;3;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1493;247;apalutamida;1;1;1;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1704;51;nusinersena;1;1;1;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+580;1000;cloridrato de clonidina;6;6;7;2;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+1300;401;palmitato de paliperidona;1;1;8;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1551;197;tafamidis meglumina;1;1;3;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1007;630;ticagrelor;2;2;2;2;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1601;156;acalabrutinibe;1;1;1;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+301;1295;diclofenaco de potássio;4;5;6;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+850;776;fenofibratos microgrânulos a 75%;1;1;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+772;845;brometo de otilônio;1;1;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+766;857;succinato sódico de metilprednisolona;3;3;6;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1584;186;vosoritida;1;1;3;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+907;737;limeciclina;2;2;5;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+456;1156;lorazepam;5;5;8;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1589;195;levomalato de cabozantinibe;1;1;3;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+557;1071;aminofilina;3;5;6;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+876;787;fanciclovir;1;1;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1600;191;risdiplam;1;1;1;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+404;1236;digoxina;3;3;5;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+962;725;docetaxel;7;8;15;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+745;900;cloridrato de midazolam;2;2;8;2;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+437;1203;acetato de hidrocortisona;3;4;5;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+1364;390;acetato de lanreotida;1;1;3;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+869;803;cloridrato de ivabradina;2;2;5;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+564;1087;betametasona;3;3;5;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+1028;653;voriconazol;7;13;21;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+941;756;hidroxiureia;4;4;4;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+718;933;cloreto de suxametônio;2;2;4;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+965;744;imiquimode;2;2;3;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+615;1050;sulfato de atropina;3;3;5;2;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+488;1174;cloridrato de verapamil;5;6;6;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+506;1159;ampicilina;3;5;9;1;Entre 10 milhões e 25 milhões;Entre 1 milhão e 10 milhões
+1353;423;teriparatida;1;1;1;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1011;692;bortezomibe;11;14;16;2;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+924;790;exemestano;4;5;5;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+896;813;cloridrato de mebeverina;1;2;4;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+820;875;cloridrato de lercanidipino;3;3;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+495;1185;cloridrato de ciproeptadina;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+694;996;pentoxifilina;2;2;4;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+463;1214;benzoilmetronidazol;3;4;6;2;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+734;978;hidrosmina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+725;985;besilato de cisatracúrio;6;6;10;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+955;796;cloridrato de oxicodona;2;3;12;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+434;1257;tiabendazol;3;4;6;2;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+1012;727;vasopressina sintetica;1;1;1;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1124;650;parecoxibe sódico;2;2;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1020;728;anidulafungina;1;2;2;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+748;973;ciclofosfamida monoidratada;1;1;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1019;730;capecitabina;6;6;10;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1609;249;cloridrato de alectinibe;1;1;1;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1369;455;abatacepte;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+582;1144;sulpirida;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+666;1077;etinilestradiol;5;5;6;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+836;905;micofenolato de mofetila;3;3;4;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+980;801;daptomicina;4;5;6;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1291;530;tigeciclina;5;5;5;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1629;253;mesilato de dabrafenibe;1;1;2;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+786;968;maleato de midazolam;3;3;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+309;1426;mebendazol;2;4;6;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+497;1239;rifamicina;4;5;5;2;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+1529;354;malato de sunitinibe;2;2;9;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1833;73;onasemnogeno abeparvoveque;1;1;19;1;Entre 250 milhões e 500 milhões;Abaixo de 100 mil
+602;1170;cloridrato de levomepromazina;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+1488;417;tosilato de sorafenibe;1;1;1;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+757;1035;ondansetrona;2;2;4;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+773;1014;cloridrato de cinacalcete;4;4;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1066;762;cefalotina sodica;3;4;4;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+804;999;famotidina;1;1;4;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1345;540;acetato de glatirâmer;1;1;1;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+826;991;hidróxido de alumínio;2;2;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+822;998;ácido fusídico;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+687;1138;flunitrazepam;2;3;6;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+641;1184;acetazolamida;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 500 mil e 1 milhão
+973;886;ácido tióctico;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+788;1051;cisplatina;4;4;9;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+640;1207;cloridrato de sotalol;4;4;7;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+830;1018;hidroxibenzoato de viminol;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+963;920;cloridrato de dobutamina;5;5;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+930;943;nitroprusseto de sódio;2;2;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1503;451;mesilato de lenvatinibe;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+768;1107;hidroquinona;5;8;14;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1142;770;pemetrexede dissódico;7;9;17;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+588;1256;cloridrato de hidroxizina;4;4;4;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+899;984;acetato de desmopressina;2;2;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1186;742;cloridrato de difenidramina;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+452;1396;riluzol;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+842;1049;primidona;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1569;434;darolutamida;1;1;1;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+997;918;mesilato de rasagilina;1;2;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1606;407;dimetilsulfóxido de trametinibe;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+977;969;epinefrina;2;2;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1085;864;ampicilina sódica;4;4;6;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1104;855;agomelatina;2;3;7;1;Entre 25 milhões e 50 milhões;Entre 100 mil e 500 mil
+1024;910;omeprazol magnésico;2;2;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1747;296;inotersena nonadecassódica;1;1;1;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1077;881;cloridrato de palonosetrona;2;2;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1112;868;isoflurano;2;2;4;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1339;665;laronidase;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1481;536;upadacitinibe hemi-hidratado;1;1;1;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1131;860;acetato de terlipressina;2;2;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+848;1118;didrogesterona;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1076;890;diacereína;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+709;1231;acetato de noretisterona;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+756;1201;hidroxicobalamina;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+872;1104;flumazenil;6;7;7;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+954;1040;hemitartarato de rivastigmina;3;3;15;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1086;907;fosaprepitanto dimeglumina;4;5;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+922;1080;cloridrato de benazepril;1;1;4;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1384;656;baricitinibe;1;1;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1187;838;nitroglicerina;1;1;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+597;1359;dinitrato de isossorbida;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+760;1217;embonato de pirvínio;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1143;876;cloridrato de prasugrel;1;1;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1033;967;diosmina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+986;1032;ciclopirox;2;2;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+923;1111;nitrato de butoconazol;2;2;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+716;1277;dimeticona;3;3;4;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+1156;885;acetato de ganirrelix;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+732;1272;acetato de metilprednisolona;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+864;1168;adapaleno;5;6;7;2;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+654;1340;hidrocortisona;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+1374;697;cloridrato de fingolimode;2;2;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+819;1204;flurandrenolida;1;2;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1403;682;romiplostim;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1027;1006;bromidrato de darifenacina;2;3;9;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+975;1093;aciclovir sódico;4;4;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+500;1508;resinato de diclofenaco;3;3;3;1;Entre 1 milhão e 10 milhões;Entre 1 milhão e 10 milhões
+897;1155;fenitoína sódica;3;3;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1161;909;ganciclovir sódico;3;3;8;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+682;1341;benzocaína;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+688;1336;diclofenaco colestiramina;4;4;9;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+1160;921;cefuroxima sódica;5;6;6;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+797;1248;lornoxicam;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1399;724;misoprostol;1;1;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+743;1309;piracetam;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1282;843;eritropoietina;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+729;1331;fenoximetilpenicilina potássica;2;2;4;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+1593;551;pirfenidona;2;2;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1578;567;cladribina;2;2;2;2;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+552;1515;ofloxacino;3;3;4;2;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+1202;919;hemitartarato de metaraminol;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+978;1143;calcipotriol;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1658;511;tosilato de niraparibe monoidratado;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1052;1063;alprostadil;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1838;355;tisagenlecleucel;1;1;1;1;Entre 100 milhões e 250 milhões;Abaixo de 100 mil
+1004;1126;ifosfamida;4;4;8;2;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1644;528;axitinibe;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1680;500;luspatercepte;1;1;2;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1594;583;riociguate;1;1;5;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+814;1286;cloridrato de tioridazina;2;2;7;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+657;1444;nitrazepam;3;3;3;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+995;1147;aminaftona;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1043;1097;darunavir;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+779;1335;cloridrato de isotipendil;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+992;1169;zuclopentixol;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+708;1403;cloridrato de ondansetrona;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+976;1188;nepafenaco;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+877;1258;clonixinato de lisina;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+638;1493;sulfato de neomicina;5;5;5;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+851;1292;hidroxizina;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+596;1530;carisoprodol;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 500 mil e 1 milhão
+1252;923;ceftazidima;3;3;4;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+813;1326;policresuleno a 36%;2;2;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1040;1141;cloridrato de tapentadol;1;1;5;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1362;859;betafolitropina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1067;1132;rabeprazol sódico;2;2;6;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+863;1310;ácido aminocapróico;1;1;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1182;1023;sulfato de amicacina;2;2;3;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1059;1140;fludroxicortida;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1661;587;entecavir monoidratado;1;1;1;1;Entre 50 milhões e 100 milhões;Abaixo de 100 mil
+1017;1192;ramelteona;2;2;5;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+364;1913;progesterona;4;4;10;1;Abaixo de 100 mil;Entre 1 milhão e 10 milhões
+983;1235;acetato de ciproterona;2;2;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+884;1323;bicalutamida;4;5;5;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1145;1105;modafinila;1;1;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1123;1137;cloreto de tróspio;1;1;1;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1499;798;gefitinibe;5;5;5;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1448;851;lipegfilgrastim;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1090;1176;sulfato de gentamicina;4;4;7;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1026;1228;dacarbazina;4;4;6;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+811;1422;tropicamida;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1249;1041;deferasirox;3;3;6;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1107;1177;tartarato de vinorelbina;1;2;3;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+929;1333;sulfato de vincristina;4;4;4;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1109;1178;aspartato de ornitina;1;1;2;1;Entre 10 milhões e 25 milhões;Entre 100 mil e 500 mil
+1698;633;vismodegibe;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1691;652;citrato de ixazomibe;1;1;3;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1671;678;regorafenibe;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+970;1339;gatifloxacino;1;1;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+932;1372;policresuleno;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1172;1166;amissulprida;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1073;1237;cloridrato de lisina;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1406;934;lactato de milrinona;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1733;635;sulfato de selumetinibe;1;1;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1197;1154;biotina;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1231;1128;cloridrato de bupivacaína;4;4;7;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1108;1232;carbonato de lodenafila;1;1;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1405;951;iloprosta;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1308;1055;sulfato de bleomicina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1702;680;crizotinibe;1;1;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1284;1089;vigabatrina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1050;1284;zopiclona;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1444;930;ambrisentana;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+866;1462;tiocolchicosídeo;3;4;4;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1336;1046;citrato de sufentanila;2;2;6;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1333;1047;gadoxetato dissódico;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1348;1022;gadopentetato de dimeglumina;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+808;1519;cloridrato de etilefrina;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+825;1498;lisinopril;3;3;6;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1058;1289;cloridrato de vardenafila;1;1;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+987;1358;penciclovir;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1409;977;dicloridrato de daclatasvir;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+998;1342;policarbofila cálcica;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1667;731;cloridrato de ponatinibe;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1724;686;letermovir;1;2;3;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1502;901;glicerofosfato de sódio;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1707;698;lorlatinibe;1;1;2;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1280;1133;besilato de atracúrio;3;3;5;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+968;1407;glicina;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1046;1317;acetonida de triancinolona;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+988;1377;genfibrozila;2;2;4;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+926;1458;metilsulfato de neostigmina;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1785;646;hemifumarato de gilteritinibe;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1190;1222;cloridrato de mepivacaína;3;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1759;676;midostaurina;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1200;1224;etomidato;3;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1219;1209;finerenona;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1263;1173;mesilato de safinamida;1;1;3;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+993;1406;citarabina;2;3;7;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+958;1454;lisinato de clonixina;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1126;1297;brometo de pinavério;2;2;5;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1245;1190;brometo de glicopirrônio;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1550;903;triptorrelina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1149;1276;sulfato de glicosamina;5;6;6;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1242;1202;prucaloprida;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1328;1136;palonosetrona;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1226;1220;pimecrolimo;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+946;1476;cloridrato de tizanidina;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1657;806;vemurafenibe;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+900;1511;cromoglicato de sodio;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1148;1290;gonadotrofina coriônica;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1679;794;belinostate;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1490;983;ganciclovir;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+961;1477;propiltiouracila;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+882;1541;cloridrato de triexifenidil;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1546;929;sulfato de isavuconazônio;1;2;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1311;1172;cloridrato de levobupivacaína;1;1;4;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1199;1275;saxagliptina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1022;1421;miconazol;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1005;1445;cloridrato de betaxolol;3;4;5;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1303;1193;acetato de fludrocortisona;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1514;997;mesilato de eribulina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1659;849;metreleptina;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1401;1114;acetato de degarelix;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1189;1301;cloridrato de granisetrona;4;4;5;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1195;1299;cloridrato de raloxifeno;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1101;1374;alcaftadina;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1764;748;sotorasibe;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+883;1586;tinidazol;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1174;1318;sulbutiamina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1015;1470;pravastatina sódica;2;2;4;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1329;1200;cloridrato de nalbufina;2;2;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+979;1514;teofilina;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1637;889;acetato de icatibanto;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1540;1003;rendesivir;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+875;1631;cloreto de cetilpiridínio;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1121;1394;cloridrato de amorolfina;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1739;808;hemina;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+982;1533;sulfadiazina;2;2;3;2;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1233;1304;alfaestradiol;2;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1119;1409;eplerenona;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1268;1281;brometo de umeclidínio;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1234;1313;maleato de indacaterol;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1096;1447;cianocobalamina;1;1;4;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1001;1534;estazolam;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1420;1171;rifaximina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1134;1414;fumarato de tenofovir desoproxila;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1238;1324;cloridrato de daunorrubicina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1344;1234;alanilglutamina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1725;870;brigatinibe;1;1;3;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1522;1081;deltafolitropina;1;1;3;2;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1592;1005;cloridrato de anagrelida;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1400;1205;fentanila;1;1;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1166;1408;talidomida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1006;1558;cetrimida;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1533;1086;poliestirenossulfonato de cálcio;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1144;1434;tiamazol;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1218;1370;fitomenadiona;3;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1431;1198;adenosina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1798;805;volanesorsena sódica;1;1;1;1;Entre 25 milhões e 50 milhões;Abaixo de 100 mil
+1383;1229;bosentana;5;5;8;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1035;1537;cloridrato de oxibuprocaína;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1312;1300;esomeprazol sódico;5;5;5;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1117;1485;etoposídeo;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1315;1315;acetato de cetrorrelix;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1387;1251;colestiramina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1630;1013;fosfato de fludarabina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1379;1265;rotigotina;1;1;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1137;1497;hidroxietilamido;2;2;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1283;1362;cloridrato de dopamina;5;5;5;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1152;1494;cloridrato de dapoxetina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1763;904;zanubrutinibe;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1598;1098;dicloridrato de sapropterina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1207;1456;uréia;1;2;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1232;1432;espiramicina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+878;1816;brometo de piridostigmina;1;1;1;1;Abaixo de 100 mil;Entre 100 mil e 500 mil
+1349;1332;canagliflozina hemi-hidratada;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1170;1504;cloreto de oxibutinina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1262;1415;sulfato de terbutalina;3;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1302;1375;tafluprosta;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1225;1465;pidolato de piridoxina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1786;913;patisirana sódica;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1771;925;dicloridrato de capmatinibe monoidratado;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1498;1227;acetato de caspofungina;2;2;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1203;1496;zolmitriptana;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1132;1569;nitrato de oxiconazol;2;2;3;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1286;1416;cloridrato de isoxsuprina;1;1;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1120;1580;cloridrato de flurazepam;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1608;1119;cloridrato de esmolol;1;2;3;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1240;1467;tosilato de edoxabana monoidratado;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1604;1130;ceftarolina fosamila;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1062;1632;fenilbutazona cálcica;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1347;1366;piperacilina sódica;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1273;1437;cloridrato de naloxona;2;2;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1325;1401;mesilato sódico de colistina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1761;971;ivacaftor;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1133;1596;sorbitol;1;1;1;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+1446;1305;acitretina;2;2;6;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1484;1260;decitabina;5;7;7;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1738;1009;miglustate;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1685;1075;cloridrato de erlotinibe;4;4;9;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1264;1475;cloridrato de ioimbina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1394;1350;sulbactam sódico;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1368;1373;cloridrato de alfentanila monoidratada;2;2;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1734;1020;alpelisibe;1;1;5;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1188;1554;diclofenaco ácido;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1230;1523;isoconazol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1563;1212;cloridrato de dexrazoxano;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1639;1139;cabazitaxel;4;5;6;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1454;1329;benzilpenicilina potássica;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1516;1264;etravirina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1135;1636;gliconato de zinco;1;1;2;1;Entre 1 milhão e 10 milhões;Entre 100 mil e 500 mil
+985;1822;pirazinamida;1;1;1;1;Abaixo de 100 mil;Entre 100 mil e 500 mil
+1459;1328;citrato de sódio;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1275;1506;aspartato de arginina;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1270;1509;dicloridrato de cetirizina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1222;1568;tranilcipromina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1229;1562;desoximetasona;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1217;1578;carbacol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1338;1468;clorambucila;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1215;1589;indometacina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1827;980;givosirana sódica;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1744;1079;plerixafor;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1258;1549;etossuximida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1555;1262;tirofibana;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1355;1457;mercaptopurina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1216;1610;cloridrato de pilocarpina;2;2;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1726;1120;selexipague;1;1;9;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1393;1435;melfalana;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1762;1095;dicloridrato de trientina;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1458;1393;propilenoglicolato de darunavir;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1296;1563;montelucaste;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1163;1704;cloridrato de ciclopentolato;2;2;2;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1519;1346;cloridrato de tirofiban monoidratado;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1700;1183;basiliximab;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1518;1355;fampridina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1515;1360;acetato de atosibana;2;2;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1777;1101;maleato de acalabrutinibe monoidratado;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1310;1573;etabonato de loteprednol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1500;1378;raltegravir potássico;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1745;1157;vandetanibe;1;1;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1319;1581;dicloridrato de zuclopentixol;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1337;1570;cloridrato de minociclina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1602;1306;palmitato de retinol;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1447;1482;roflumilaste;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1849;1070;voretigeno neparvoveque;1;1;1;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1676;1247;cloridrato de valganciclovir;2;2;2;2;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1542;1383;aztreonam;1;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1351;1575;cloridrato de petidina;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1389;1538;latanoprosteno bunode;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1452;1483;vinorelbina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1699;1241;levosimendana;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1470;1479;acetato de triptorrelina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1297;1654;metoclopramida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1441;1526;sulfato de efedrina;3;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1288;1669;peróxido de benzoíla;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1377;1584;isoniazida;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1792;1175;sulfato de larotrectinibe;1;2;2;1;Entre 10 milhões e 25 milhões;Abaixo de 100 mil
+1662;1307;posaconazol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1758;1216;pomalidomida;1;1;8;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1576;1399;ésteres etílicos dos ácidos graxos do óleo de papoula iodados;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1767;1208;deutetrabenazina;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1244;1770;maleato de feniramina;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1381;1615;capsaicina;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1599;1385;bendamustina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1528;1472;sulfato de vimblastina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1239;1796;pirimetamina;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1530;1473;paliperidona;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1298;1729;cloridrato de ticlopidina;2;3;3;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1617;1387;deferiprona;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1435;1605;maleato de metilergometrina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1438;1599;calcitonina sintética de salmão;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1497;1532;cefoxitina sódica;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1654;1371;efavirenz;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1719;1311;ditosilato de lapatinibe;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1770;1250;hemifumarato de cobimetinibe;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1541;1499;pamidronato dissódico;2;2;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1677;1357;penicilamina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1494;1555;teriflunomida;3;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1790;1246;defibrotida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1740;1303;pegvisomanto;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1652;1390;mitotano;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1797;1240;erdafitinibe;1;1;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1818;1230;teduglutida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1354;1720;cloridrato de piridoxina;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1475;1598;cloridrato de olodaterol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1455;1627;ranolazina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1640;1425;beractanto;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1461;1633;cloridrato de epinastina;2;2;2;2;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1570;1516;derisomaltose férrica;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1666;1410;rasburicase;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1821;1255;belzutifano;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1322;1833;cloridrato de epirrubicina;2;3;5;1;Abaixo de 100 mil;Abaixo de 100 mil
+1462;1645;cloridrato de atomoxetina;1;1;6;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1554;1543;hidrogenotartarato de rivastigmina;3;3;6;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1449;1662;lubiprostona;1;1;5;2;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1474;1649;deslanosídeo;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1434;1706;piroxicam betaciclodextrina;2;2;3;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1463;1660;menaeptenona;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1851;1244;axicabtageno ciloleucel;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1439;1711;oleato de monoetanolamina;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1534;1608;irbesartana;2;2;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1460;1697;fusidato de sódio;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1465;1683;prednicarbato;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1371;1835;cloridrato de protamina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1565;1606;difosfato de primaquina;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1496;1679;flutamida;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1614;1544;hemifumarato de tenofovir alafenamida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1558;1616;cloridrato de mitoxantrona;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1508;1665;acetato de megestrol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1532;1648;colistimetato de sódio;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1440;1792;ampicilina anidra;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1794;1361;ácido carglúmico;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1646;1531;cloridrato de bendamustina;1;2;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1731;1449;dimaleato de afatinibe;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1574;1622;paricalcitol;2;3;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1737;1441;fumarato de dimetila;2;2;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1619;1561;droperidol;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1552;1647;cloridrato de papaverina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1757;1417;encorafenibe;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1477;1751;bromidrato de eletriptana;1;1;2;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1587;1623;armodafinila;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1489;1752;cloridrato de selegilina;1;1;2;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1482;1784;metildigoxina;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1722;1495;dantroleno sódico hemieptaidratado;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1603;1619;cefotaxima sódica;3;3;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1567;1663;danazol;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1847;1344;vutrisirana sódica;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1675;1556;tiopental sódico;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1575;1668;mesilato de desferroxamina;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1846;1367;lumasirana sódica;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1620;1635;brometo de pancurônio;2;2;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1549;1741;lactato de biperideno;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1525;1810;dicloridrato de trifluoperazina;1;1;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1732;1539;delafloxacino meglumina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1625;1652;sulfato de tobramicina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1746;1527;enfuvirtida;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1819;1451;cloridrato de tepotinibe monoidratado;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1548;1814;zidovudina;2;2;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1633;1672;tioguanina;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1573;1794;cloridrato de levobunolol;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1613;1714;carmustina;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1596;1782;fluocinolona acetonida;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1616;1733;lomustina;1;1;2;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1682;1651;brometo de vecurônio;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1641;1712;difosfato de cloroquina;2;2;3;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1618;1755;gadobenato de dimeglumina;1;1;2;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1624;1756;diazóxido;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1683;1678;leucina;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1803;1552;levolisinato de ibuprofeno;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1580;1855;bussulfano;2;2;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1656;1766;metoxisaleno;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1802;1576;nitisinona;2;3;8;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1607;1841;cloridrato de topotecana;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1727;1676;praziquantel;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1703;1715;rufinamida;1;1;2;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1672;1787;lacidipino;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1701;1745;dinoprostona;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1754;1658;complexo protrombínico parcialmente ativado;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1795;1617;inclisirana sódica;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1713;1738;perampanel;1;1;4;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1706;1749;enantato de flufenazina;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1832;1592;maribavir;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1820;1609;tosilato de talazoparibe;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1678;1818;benzbromarona;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1716;1778;fosfato dissódico de betametasona;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1775;1666;somatrogona;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1808;1638;mavacanteno;1;1;4;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1806;1642;pamoato de pasireotida;1;1;3;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1810;1640;binimetinibe;1;1;1;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1772;1682;nevirapina;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1823;1650;diaspartato de pasireotida;1;1;2;1;Entre 1 milhão e 10 milhões;Abaixo de 100 mil
+1730;1809;ritonavir;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1735;1795;hemitartarato de epinefrina;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1801;1681;abrocitinibe;1;1;3;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1715;1847;nitrofural;1;1;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1743;1813;corynebacterium parvum;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1776;1748;ribavirina;2;2;2;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1805;1703;ácido fumárico siponimode;1;1;3;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1752;1801;dicloridrato de etambutol;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1773;1753;vinflunina;1;1;2;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1760;1797;cloridrato de alfuzosina;1;1;1;1;Entre 100 mil e 500 mil;Abaixo de 100 mil
+1839;1696;tri-heptanoína;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1837;1709;bosutinibe;1;1;3;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1765;1830;dicloridrato de flufenazina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1844;1719;maleato de neratinibe;1;1;1;1;Entre 500 mil e 1 milhão;Abaixo de 100 mil
+1784;1831;alendronato sódico;1;1;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1796;1839;tioconazol;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1826;1819;somatostatina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1840;1821;betaína;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1834;1840;estolato de eritromicina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1831;1854;nitrofurazona;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1845;1834;desflurano;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1836;1857;cloridrato de lidocaína monoidratada;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1842;1856;metilbrometo de homatropina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1852;1844;maraviroque;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1853;1852;betaoctocogue;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1856;1850;betaepoetina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1854;1858;rilmenidina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1873;1870;terconazol;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1889;1889;ácido gamaminobutírico;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1890;1891;repaglinida;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1896;1878;maleato de timolol;1;1;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1895;1895;cloridrato de azelastina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1905;1893;cânfora;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1899;1900;cloridrato de alizaprida;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1904;1896;perindopril erbumina;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1907;1903;mesilato de codergocrina;2;2;2;1;Abaixo de 100 mil;Abaixo de 100 mil
+1908;1904;cloridrato de ranitidina;8;9;11;1;Abaixo de 100 mil;Abaixo de 100 mil
+1909;1910;monofosfato de riboflavina sódica;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1911;1909;propionato de halobetasol;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
+1912;1912;nimodipino;1;1;1;1;Abaixo de 100 mil;Abaixo de 100 mil
